@@ -2,7 +2,7 @@
 class Conexion{
     static public function infoDataBase(){
         $infoDB = [
-            "database" => "",
+            "database" => "db_finanzasPersonales",
             "user" => "root",
             "contasennia" => ""
         ];
